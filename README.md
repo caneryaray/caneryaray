@@ -29,7 +29,7 @@ projeler üreten ve yeni teknolojiler öğrenmeye büyük tutkuyla bağlı bir g
 - *FSWeb S2G4 JavaScript Projeleri*  
 - *Frontend 101 Eğitimi Uygulamaları*
 -  -  yemekblogu
-   -  Global bank
+-   -  Global bank
 
 ---
 
