@@ -28,6 +28,7 @@ projeler üreten ve yeni teknolojiler öğrenmeye büyük tutkuyla bağlı bir g
 - *SmartBankPro* — JavaScript ile geliştirilmiş banka simülasyonu  
 - *FSWeb S2G4 JavaScript Projeleri*  
 - *Frontend 101 Eğitimi Uygulamaları*  
+-* yemekblogu *
 
 ---
 
