@@ -21,7 +21,7 @@ projeler üreten ve yeni teknolojiler öğrenmeye büyük tutkuyla bağlı bir g
 - Objeler, fonksiyonlar, diziler  
 - GitHub projeleri üretme ve portföy oluşturma  
 - Front-end geliştirme temelleri  
-
+-- HTML ve CSS
 ---
 
 
