@@ -10,7 +10,7 @@ projeler üreten ve yeni teknolojiler öğrenmeye büyük tutkuyla bağlı bir g
 ## 🚀 Kullandığım Teknolojiler
 - *JavaScript (ES6+)*
 - *HTML5 / CSS3*
-- *Node.js (temel düzey)*
+- *Node.js (ileri düzey)*
 - *Git & GitHub*
 - *VS Code*
 
