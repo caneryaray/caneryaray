@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Caner Yaray
 
-*🎯 Junior Yazılım Geliştirici | JavaScript & Front-End Developer*
+*🎯  Yazılım Geliştirici | JavaScript & Front-End Developer*
 
 Kendimi yazılım alanında geliştirmek için her gün disiplinli bir şekilde çalışan,
 projeler üreten ve yeni teknolojiler öğrenmeye büyük tutkuyla bağlı bir geliştiriciyim.
